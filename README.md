@@ -44,4 +44,4 @@ Após a coleta e validação das entradas, o sistema processa e exibe relatório
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/marianabraga97/aulaslingugagemC.git](https://github.com/marianabraga97/aulaslingugagemC.git)
+   git clone [https://github.com/marianabraga97/aulasdelinguagemC.git](https://github.com/marianabraga97/aulasdelinguagemC.git)
