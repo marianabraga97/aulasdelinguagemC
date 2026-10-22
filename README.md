@@ -1,4 +1,4 @@
-# Exercício 37 - Análise e Gerenciamento de Funcionários em C
+#Análise e Gerenciamento de Funcionários em C
 
 Projeto desenvolvido como parte das atividades práticas de Algoritmos e Programação no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Bragança Paulista**.
 
